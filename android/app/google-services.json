@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194399641505",
+    "project_id": "app-parcial-7964a",
+    "storage_bucket": "app-parcial-7964a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194399641505:android:829c4254b47c017069b5e0",
+        "android_client_info": {
+          "package_name": "com.example.app_tiktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194399641505-cthrgmivo4ar53csnllpljuugl3iihhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRJQVAaQmZIAWE16nwBLlVJHus6A-kvB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194399641505-cthrgmivo4ar53csnllpljuugl3iihhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
